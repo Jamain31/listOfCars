@@ -60,8 +60,8 @@ public class App {
 } 
 <BreadthFirstTreeIterator.java>
 /* 
- * Copyright (C) 2007-2014 by Brett Alistair Kromkamp <brett@perfectlearn.com>. 
- * Modified by Jamain Hughes
+  
+ * by Jamain Hughes
  */ 
 package com.quesucede.tree;
 

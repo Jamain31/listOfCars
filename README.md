@@ -9,10 +9,6 @@ I utilized the tree function in Java by recreating the application that Brett Al
  * 10/11/2022
  */
 
-/* 
- * Copyright (C) 2007-2014 by Brett Alistair Kromkamp <brett@perfectlearn.com>. 
- * Modified by Jamain Hughes
- */ 
  
 package com.quesucede.tree; 
  
